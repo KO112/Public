@@ -1,2 +1,2 @@
 # Public
-Public repository to share code with other.
+Public repository to share code with others.
