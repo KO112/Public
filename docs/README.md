@@ -1,7 +1,1 @@
-[Housing Prices Competition - EDA](EDA.html)
-
-[Housing Prices Competition - EDA](EDA-Copy.html)
-
-[Housing Prices Competition - EDA](EDA---Copy.html)
-
-[Housing Prices Competition - EDA](EDA%20-%20Copy.html)
+[Housing Prices Competition - EDA](Housing_Prices_Competition_EDA.html)
